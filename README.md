@@ -1,4 +1,4 @@
 <div align="center">
   <a href="https://github.com/luizaviana">
-  (https://github-readme-stats.vercel.app/api?username=luizaviana&show_icons=true&theme=transparent)
+  ([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizaviana)](https://github.com/anuraghazra/github-readme-stats)
 </div>
